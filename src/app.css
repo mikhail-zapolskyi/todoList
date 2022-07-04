@@ -1,0 +1,12 @@
+.crossline {
+     text-decoration: line-through;
+}
+
+span {
+     padding: 5px;
+     cursor: pointer;
+}
+
+span:last-child {
+     color: orangered;
+}
